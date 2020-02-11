@@ -1,0 +1,26 @@
+* {
+    border: 0px;
+    margin: 0px;
+}
+body {
+    background-color: #a5a8a8;
+}
+
+.header {
+    height: 180px;
+    background-color: #4e4f4f;
+}
+
+.box1 {
+    width:850px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+}
+
+.footer {
+    background-color: black;
+    height: 50px;
+    width: 850px;
+    margin: auto;
+}
