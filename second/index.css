@@ -41,7 +41,11 @@ header {
     border: solid black;
     border-width: 5px;
     border-style: dotted;
-    margin: 15px, 0px, 0px, 0px;  
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  
 }
 .second-container {
     background-color: #f7faa7;
